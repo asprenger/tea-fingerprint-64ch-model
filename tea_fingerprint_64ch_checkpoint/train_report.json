@@ -142,12 +142,12 @@
   "model_parameter": {
     "kernel_size": 20,
     "nb_conv_layers": 3,
-    "nb_filters": 12
+    "nb_filters": 16
   },
   "nb_classes": 1000,
   "nb_features": 64,
   "nb_samples": 50000,
   "normalization": "snv",
-  "timestamp": "2020-10-14T13:18:07.220627",
-  "val_accuracy": 0.9427000284194946
+  "timestamp": "2020-10-15T06:56:23.318906",
+  "val_accuracy": 0.9822999835014343
 }
